@@ -9,5 +9,6 @@ venue: 'Conference on Language Modeling'
 slidesurl: 'http://yourwebsite.com/files/slides-enhancing-llms.pdf'
 paperurl: 'https://example.com/enhancing-llms-paper'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-enhancing-llms.bib'
+codeurl: 'https://github.com/ClaspTermite/enhancing-llms'
 citation: 'John Smith, et al. (2024). "Enhancing Large Language Models." <i>Conference on Language Modeling</i>.'
 ---
